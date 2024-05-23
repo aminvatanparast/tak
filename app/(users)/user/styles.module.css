@@ -1,0 +1,14 @@
+.user_main_list {
+  background-color: var(--mainColor);
+  height: 100%;
+  width: 100%;
+  padding: 5%;
+}
+.user_container {
+  background-color: white;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  padding: 5%;
+}
